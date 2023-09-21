@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="38px" height="38px" viewBox="0 0 38 38" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>1D2FC50F-3217-4A4C-BD68-8EE74DF9CEFE@3x</title>
+    <desc>Created with sketchtool.</desc>
+    <defs>
+        <polygon id="path-1" points="0.00556097561 0.0369829684 37.9631122 0.0369829684 37.9631122 37.9077275 0.00556097561 37.9077275"></polygon>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Contact-preference-form-(yes-no)-TOOLTIP" transform="translate(-1501.000000, -600.000000)">
+            <g id="Group" transform="translate(1501.000000, 600.000000)">
+                <g id="Group-3">
+                    <mask id="mask-2" fill="white">
+                        <use xlink:href="#path-1"></use>
+                    </mask>
+                    <g id="Clip-2"></g>
+                    <path d="M18.9815561,0.0369829684 C8.52896098,0.0369829684 0,8.54667153 0,18.9723552 C0,29.399056 8.5304439,37.9077275 18.9815561,37.9077275 C29.4336878,37.9077275 37.9631122,29.3976691 37.9631122,18.9723552 C37.9631122,8.54519221 29.4322976,0.0369829684 18.9815561,0.0369829684 Z M18.9815561,35.6887494 C9.74143902,35.6887494 2.22439024,28.189528 2.22439024,18.9723552 C2.22439024,9.75472019 9.74143902,2.25596107 18.9815561,2.25596107 C28.2212098,2.25596107 35.738722,9.75472019 35.738722,18.9723552 C35.738722,28.189528 28.2212098,35.6887494 18.9815561,35.6887494 Z" id="Fill-1" fill="#FFFFFF" mask="url(#mask-2)"></path>
+                </g>
+                <path d="M13,30 L30,19 L13,8 L13,30 Z M15.2968705,12.165476 L25.8589339,19 L15.2968705,25.834524 L15.2968705,12.165476 Z" id="Fill-4" fill="#FFFFFF"></path>
+            </g>
+        </g>
+    </g>
+</svg>
